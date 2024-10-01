@@ -1,0 +1,13 @@
+name: k-means_rural_sections_clusters_Haiti
+title: k-means_rural_sections_clusters_Haiti
+username:
+account: stepminer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12717484
+bundleId: 9164374
+url: https://stepminer.shinyapps.io/k-means_rural_sections_clusters_Haiti/
+when: 1727721885.63559
+lastSyncTime: 1727721885.6356
+asMultiple: FALSE
+asStatic: FALSE
