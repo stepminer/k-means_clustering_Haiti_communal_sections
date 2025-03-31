@@ -4,7 +4,7 @@ Shiny app tool for visualizing and exploring socio-economic and geographical clu
 **K-Means Clustering of Haiti's Communal Sections Shiny App**
 
 **Overview**
-This Shiny app provides a visualization of k-means clustering for Haiti’s communal sections, highlighting different socio-economic and geographical characteristics. The app allows users to explore the clusters of these sections using an interactive map and data table, offering insights into population, poverty rate, proximity to health centers and schools, and other key metrics. The data has been spatially joined with geo-referenced information to allow for comprehensive analysis and visualization.
+This Shiny app provides a visualization of k-means clustering for Haiti’s communal sections, highlighting different socio-economic and geographical characteristics. The app allows users to explore the clusters of these sections using an interactive map and data table, offering insights into population, poverty rate, proximity to health centers and schools, and other key metrics. The data has been spatially joined with geo-referenced information to allow for comprehensive analysis and visualization. You can access it here https://stepminer.shinyapps.io/k-means_rural_sections_clusters_Haiti/
 
 **Features**
 Interactive Map: Explore Haiti's communal sections with dynamic filtering by department and commune.
